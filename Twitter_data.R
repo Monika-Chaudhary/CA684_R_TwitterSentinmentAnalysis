@@ -1,9 +1,9 @@
 #Register Application Program Interface(API) using twitter account
 
-api_key <- 'PTGoCj8ZogwNbWl2ANmEpORlT'
-api_secret <- 'ZYcRNIN5meYbs9hPQLrTWD1F1JjrFFEtmWKQagidRpwcUkzMAJ'
-access_token <- '809806667533709312-L162WLykq4evp7ToTcUsKj3eoM6eJm1'
-access_token_secret <- 'qXCqBiANxaepMiEHd0BTckGKNablVsaaRXjJqUCZm1qqg'
+api_key <- '8888888888'
+api_secret <- '8888888888888888888888888888J'
+access_token <- '888888888888888888888888888888888'
+access_token_secret <- '8888888888888888888888888888888888888888'
 
 #Load library
 library(twitteR)
